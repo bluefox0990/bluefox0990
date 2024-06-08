@@ -60,7 +60,7 @@
           <h1><a href="#">HubTech</a></h1>
           <ul>
             <li><a href="https://whatsapp.com/channel/0029VaFmxgUAe5Vu52NPnk0o">CONTECT</a></li>
-            <li><a href="https://t.me/+ygH0YUHn1yY3Zjc1">TELEGRAM</a></li>
+            <li><a href="https://www.instagram.com/sanatani_vip_?igsh=ZGl3b3hqZzlsZXcx">TELEGRAM</a></li>
             <li><a href="
       https://www.instagram.com/sanatani_vip_?igsh=ZGl3b3hqZzlsZXcx   >INSTAGRAM</a></li> </ul>
         </div>
