@@ -59,7 +59,7 @@
         <div class="container">
           <h1><a href="#">HubTech</a></h1>
           <ul>
-            <li><a href="https://whatsapp.com/channel/0029VaFmxgUAe5Vu52NPnk0o">CONTECT</a></li>
+            <li><a href="https://wa.me/qr/EEEECHE5QXP2L1">CONTECT</a></li>
             <li><a href="https://www.instagram.com/sanatani_vip_?igsh=ZGl3b3hqZzlsZXcx">INSTAGRAM</a></li>
             <li><a href="
       https://www.instagram.com/sanatani_vip_?igsh=ZGl3b3hqZzlsZXcx   >INSTAGRAM</a></li> </ul>
