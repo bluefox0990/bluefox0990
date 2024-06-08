@@ -61,8 +61,8 @@
           <ul>
             <li><a href="https://whatsapp.com/channel/0029VaFmxgUAe5Vu52NPnk0o">CONTECT</a></li>
             <li><a href="https://t.me/+ygH0YUHn1yY3Zjc1">TELEGRAM</a></li>
-            <li><a href="https://www.instagram.com/finally.yours_.com_?igsh=MXd4eGxtNjNwZmFiag==">INSTAGRAM</a></li>
-          </ul>
+            <li><a href="
+      https://www.instagram.com/sanatani_vip_?igsh=ZGl3b3hqZzlsZXcx   >INSTAGRAM</a></li> </ul>
         </div>
       </nav>
       <!-- Showcase Area -->
